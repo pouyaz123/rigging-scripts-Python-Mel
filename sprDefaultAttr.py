@@ -1,29 +1,4 @@
-#!/usr/bin/python -t
 
-#
-#               Copyright (c) 2012 Sprite Entertainment, Inc.
-#                             All Rights Reserved.
-#
-#  This file contains unpublished confidential and proprietary information
-#  of Sprite Entertainment, Inc.  The contents  of  this  file  may not be
-#  copied  or duplicated,  in whole  or  in part, by any means, electronic
-#  or  hardcopy,   without   the  express   prior  written  permission  of
-#  Sprite Entertainment, Inc.  This  copyright  notice  does not imply any
-#  actual or intended publication.
-#
-# $Log: sprDefaultAttr.py,v $
-# Revision 1.3  2012/05/10 00:29:50  tetsuya
-# Added a line for the node which has no keyable attribute.
-#
-# Revision 1.2  2012/05/03 04:13:22  tetsuya
-# Locked default attributes.
-#
-# Revision 1.1.1.1  2012/05/02 19:17:26  tetsuya
-# Created by Pouya.
-#
-#
-#  Using Scripts:
-#
 
 import maya.cmds as cmds
 import pymel.core as pm
